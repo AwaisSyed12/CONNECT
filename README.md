@@ -1,0 +1,80 @@
+**CONNECT – Comprehensive Organic Network for Nurturing Educational Community & Transformation**
+
+Industry: Higher Education Technology
+
+Project Type: B2B Salesforce CRM Implementation for Universities
+
+Target Users: Students, Academic Advisors, Student Support Staff, University Administrators, Faculty Members
+
+Phase 1: Problem Understanding & Industry Analysis
+
+**Problem Statement:**
+
+A mid-sized university with over 15,000 students experiences alarming dropout rates and diminished student success due to fragmented support systems. Research shows that 39% of first-time, full-time students fail to return for their second year, costing the institution over $9 billion annually in wasted tuition, financial aid, and potential revenue. Despite significant investments in academic advising, tutoring, and student engagement programs, these initiatives remain disconnected and operate independently:
+
+•	Academic performance monitoring systems capture grades and attendance but lack insight into students’ social networks and sense of belonging.
+
+•	Student risk identification is primarily reactive—alerts trigger only after grades drop or students miss critical deadlines—resulting in delayed interventions that often come too late.
+
+•	Peer support and social integration efforts (clubs, study groups, campus events) operate independently of academic support services, missing the proven 80.6% positive correlation between strong peer relationships and academic achievement.
+
+•	Intervention strategies rely on manual case management workflows, leading to inconsistent follow-up, misallocation of resources, and poor tracking of outcomes.
+
+•	Data fragmentation across the Learning Management System (LMS), Student Information System (SIS), and various student services prevents a holistic view of each student’s risk factors and support needs.
+
+•	Social isolation detection remains manual and inconsistent, leaving many at-risk students without timely outreach or community connection.
+
+**The Core Challenge:**
+
+No existing technology platform systematically integrates academic performance analytics with social network data to enable proactive, data-driven interventions. The university lacks the ability to automatically:
+
+1.	Identify at-risk students by combining academic, behavioural, and social engagement indicators;
+
+2.	Facilitate academically beneficial peer relationships using predictive matching algorithms;
+
+3.	Coordinate interventions through automated workflows that notify advisors and support staff the moment a student’s risk score crosses defined thresholds;
+
+4.	Measure intervention effectiveness in real time, refining strategies based on outcome data;
+
+5.	Provide comprehensive dashboards for administrators to track retention metrics, resource utilization, and program ROI.
+
+**Project Objectives**
+
+CONNECT aims to transform student support by delivering a Salesforce-based platform that:
+
+•	Integrates data from LMS, SIS, campus engagement apps, and student services into a unified student profile.
+
+•	Applies predictive analytics to calculate daily risk scores for every student, enabling early warning before academic crisis.
+
+•	Automates peer matching to create data-driven study partnerships proven to improve academic outcomes.
+
+•	Implements proactive workflows to notify advisors, schedule support services, and track student progress continuously.
+
+•	Delivers real-time dashboards for students, advisors, and administrators, driving informed decision-making and continuous improvement.
+
+**Use Cases**
+
+1.	Proactive At-Risk Student Identification(Trigger: Daily multi-factor risk scoring of academic, behavioural, and social data; Flow: System calculates risk scores → sends prioritized alerts to advisors → schedules support services; Outcome: Enables early outreach, preventing 40–60% of potential dropouts.)
+
+2.	Academic Peer Partnership Formation(Trigger: Identification of academic struggle or student request; Flow: Compatibility analysis → algorithmic peer matching → structured introduction and collaboration space setup; Outcome: Fosters study groups that leverage an 80.6% peer-support correlation to boost academic performance)
+
+3.	Social Integration Monitoring & Intervention(Trigger: Weekly social engagement analysis; Flow: System tracks event participation, peer interactions, and campus facility usage → flags isolation risks → recommends community activities; Outcome: Reduces social isolation by 30% through targeted community-building efforts)
+
+4.	Predictive Intervention Timing(Trigger: Mid-semester performance reviews and trend deviations; Flow: Machine-learning models forecast academic outcomes → recommends optimal intervention timing and resource allocation; Outcome: Improves intervention effectiveness by 25% and optimizes resource utilization)
+
+5.	Holistic Success Dashboard Reporting(Trigger: Real-time data aggregation across LMS, SIS, and engagement platforms; Flow: Generates dashboards for students, advisors, and administrators with retention metrics, risk trends, and ROI projections; Outcome: Drives data-informed decision-making, increasing advisor efficiency by 20%)
+
+**Expected Outcomes**
+
+1.	Retention Improvement of 15–20%
+
+2.	Annual Cost Savings of $180,000+ per Cohort
+
+3.	Risk Prediction Accuracy of ≥85%
+
+4.	User Adoption Rate of ≥90% within Six Months
+
+5.	Intervention Effectiveness of ≥70% in Improving At-Risk Student Outcomes
+
+
+
